@@ -1,2 +1,0 @@
-# hip-hop
-pensamento computacional
